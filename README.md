@@ -1,5 +1,5 @@
 # Alcatea---Sistema-de-restaurante
-Sistema de administração de restaurante, feito em C#, no framework Windows Forms. Usa uma base de dados baseada em SQL Server. Este projeto foi meu projeto de TCC para o curso técnico de Informática, que realizei junto ao Ensino Médio na ETESP - Escola Técnica Estadual de São Paulo, em 2019. Não usei o github na época, estou colocando-o no github só agora e por isso só há um upload deste projeto, porém pretendo melhorá-lo no futuro.
+Sistema de administração de restaurante, feito em C#, no framework Windows Forms. Usa uma base de dados baseada em SQL Server. Este projeto foi meu projeto de TCC para o curso técnico de Informática que realizei junto ao Ensino Médio na ETESP - Escola Técnica Estadual de São Paulo, em 2019. Não usei o github na época, estou colocando-o no github só agora e por isso só há um upload deste projeto, porém pretendo melhorá-lo no futuro.
 
 IMPORTANTE!!!: A aplicação usa um banco de dados SQL Server hospedado localmente. Para executá-la, é necessário que se tenha um banco de dados SQL Server rodando no dispostivo. O banco de dados pode ser criado a partir do arquivo SQL DatabaseAlcatea.sql, que está no projeto.
 
